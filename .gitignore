@@ -1,2 +1,6 @@
 logs
 .htpasswd
+*.[oa]
+*~
+.DS_Store
+.idea
